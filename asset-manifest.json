@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nft-card-reactjs/static/css/main.165f3d88.css",
+    "main.js": "/nft-card-reactjs/static/js/main.d9303e24.js",
+    "static/media/image-equilibrium.jpg": "/nft-card-reactjs/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nft-card-reactjs/index.html",
+    "main.165f3d88.css.map": "/nft-card-reactjs/static/css/main.165f3d88.css.map",
+    "main.d9303e24.js.map": "/nft-card-reactjs/static/js/main.d9303e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165f3d88.css",
+    "static/js/main.d9303e24.js"
+  ]
+}
